@@ -70,9 +70,8 @@ python scripts/run_funnel_analysis.py
 python scripts/run_part2.py
 ```
 
-## Next steps
-- [ ] Seller-level analysis: split delays into seller handling vs carrier transit (`order_items`, `sellers`) to find who to fix
-- [ ] RFM segmentation and an A/B-test notebook
-- [ ] Power BI / Tableau dashboard (funnel page + delivery page)
-- [ ] Logistic regression: conversion ~ channel + landing page
-- [ ] 2-minute walkthrough video linked at the top
+## Possible extensions
+- Seller-level analysis: split delays into seller handling vs carrier transit to find who to fix
+- RFM customer segmentation and an A/B-test notebook
+- Power BI / Tableau dashboard (funnel page + delivery page)
+- Regression of lead conversion on channel and landing page together
