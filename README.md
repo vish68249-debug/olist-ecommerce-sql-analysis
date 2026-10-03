@@ -69,9 +69,3 @@ pip install -r requirements.txt
 python scripts/run_funnel_analysis.py
 python scripts/run_part2.py
 ```
-
-## Possible extensions
-- Seller-level analysis: split delays into seller handling vs carrier transit to find who to fix
-- RFM customer segmentation and an A/B-test notebook
-- Power BI / Tableau dashboard (funnel page + delivery page)
-- Regression of lead conversion on channel and landing page together
